@@ -4,7 +4,7 @@
 
 <h1>Installation Tool</h1>
 
-<h3>$ apt update<br>$ apt upgrade -y<br>$ pkg install python -y<br>$ pkg install python2 -y<br>$ pkg install git -y<br>$ git clone https://github.com/noobboss1/TermuxBanner<br>$ cd TermuxBanner<br>$ bash setup.sh</h3><br>
+<h3>$ apt update<br>$ apt upgrade -y<br>$ pkg install python -y<br>$ pkg install python2 -y<br>$ pkg install git -y<br>$ pip2 install lolcat<br>$ git clone https://github.com/noobboss1/TermuxBanner<br>$ cd TermuxBanner<br>$ bash setup.sh</h3><br>
 
 <h1>Setup Your Name</h1>
 
